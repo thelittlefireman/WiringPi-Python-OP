@@ -11,8 +11,8 @@ Built against Python 2.7.2, Python 3.2.3
 
 ##Get/setup repo
 ```bash
-git clone --recursive https://github.com/WiringPi/WiringPi-Python.git
-cd WiringPi-Python
+git clone --recursive https://github.com/lanefu/WiringPi-Python-OP.git
+cd WiringPi-Python-OP
 ```
 
 ##Prerequisites
