@@ -1,3 +1,5 @@
+#info to install https://projetsdiy.fr/webioop-equivalent-webiopi-raspberrypi-orangepi/
+
 #WiringPi for Python
 
 WiringPi: An implementation of most of the Arduino Wiring
