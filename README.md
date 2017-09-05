@@ -1,4 +1,5 @@
-#info to install https://projetsdiy.fr/webioop-equivalent-webiopi-raspberrypi-orangepi/
+#info to install https://projetsdiy.fr/webioop-equivalent-webiopi-raspberrypi-orangepi/ 
+#https://forum.armbian.com/index.php?/topic/5072-i-finally-mapped-the-gpio-on-the-opz2-h3/
 
 #WiringPi for Python
 
